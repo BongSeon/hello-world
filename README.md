@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi there!
+
+I'm here, I like musics and coffee. :) haha. thanks.
+
